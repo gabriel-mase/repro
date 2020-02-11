@@ -24,7 +24,7 @@
     var formData = {};
     fields.forEach(function(name){
       var element = elements[name];
-      
+
       // singular form elements just have one value
       formData[name] = element.value;
 
@@ -86,7 +86,7 @@
     }).join('&');
     xhr.send(encoded);
   }
-  
+
   function loaded() {
     // bind to the submit event of our form
     var forms = document.querySelectorAll("form.gform");
