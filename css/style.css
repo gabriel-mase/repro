@@ -537,21 +537,26 @@ input[type="email"] {
 .single_icon  i{
 
 }
+
+#packege_area .packege_details p, #packege_area .packege_details h2, #packege_area .packege_details h2 span {
+  color:#333333 !important;
+}
+
 .packege_details p{
-	color:#fff;
-	font-size:18px;
+  color:#fff;
+  font-size:18px;
 	font-family:'Open Sans', sans-serif;
 	font-weight:300;
 }
 .packege_details h2{
-	color:#fff;
-	font-size:32px;
+  color:#fff;
+  font-size:32px;
 	font-family:'Open Sans', sans-serif;
 	font-weight:900;
 }
 .packege_details h2 span{
-	color:#fff;
-	font-size:26px;
+  color:#fff;
+  font-size:26px;
 	font-family:'Open Sans', sans-serif;
 	font-weight:700;
 }
@@ -3772,6 +3777,11 @@ section#map_area {
   border-radius: 0;
 }
 
+.thankyou_message p {
+  margin-top: 15px;
+  color: #2c8a2c;
+}
+
 
 @media only screen and (min-width: 600px) {
   .team {
@@ -3819,5 +3829,19 @@ section#map_area {
 
   .select {
     width: 100%;
+  }
+
+  .single_footer img {
+    zoom: 0.8;
+  }
+
+  #packege_area_2 {
+    height: 300px;
+    padding-top: 0;
+  }
+
+  #packege_area_3 {
+    height: 400px;
+    padding-top: 0;
   }
 }

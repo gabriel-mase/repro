@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7b034d2-e685-41c6-804e-dfe1b12c3491" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,11 +19,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
-              <caret line="606" column="54" lean-forward="true" selection-start-line="606" selection-start-column="54" selection-end-line="606" selection-end-column="54" />
+            <state relative-caret-position="840">
+              <caret line="571" column="54" lean-forward="true" selection-start-line="571" selection-start-column="54" selection-end-line="571" selection-end-column="54" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -32,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="3820" column="16" selection-start-line="3820" selection-start-column="16" selection-end-line="3820" selection-end-column="16" />
+            <state relative-caret-position="579">
+              <caret line="3842" column="2" selection-start-line="3842" selection-start-column="2" selection-end-line="3842" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -113,6 +113,12 @@
       <find>getFormData</find>
       <find>form</find>
       <find>.form-one</find>
+      <find>height: 300px;</find>
+      <find>packege_area_2</find>
+      <find>#333333</find>
+      <find>packege_area</find>
+      <find>packege_area_3</find>
+      <find>packege_details</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;a href=&quot;http://www.turnos365.com/turnos.aspx?con=870 &quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;img/home-v1/turnos-online.png&quot;</replace>
@@ -133,8 +139,8 @@
         <option value="$PROJECT_DIR$/service-volkswagen.html" />
         <option value="$PROJECT_DIR$/service-programado.html" />
         <option value="$PROJECT_DIR$/climatizacion.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/responsive.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
@@ -207,12 +213,12 @@
       <updated>1581000784424</updated>
       <workItem from="1581000786487" duration="621000" />
       <workItem from="1581285526523" duration="4715000" />
-      <workItem from="1581377522968" duration="2106000" />
+      <workItem from="1581377522968" duration="4476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7442000" />
+    <option name="totallyTimeSpent" value="9812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="35" width="1400" height="837" extended-state="0" />
@@ -262,17 +268,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/form-submission-handler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="48" selection-end-line="91" selection-end-column="53" />
-          <folding>
-            <element signature="e#87#1563#0" />
-            <element signature="e#1600#2887#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/inyeccion-electronica.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -294,17 +289,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="606" column="54" lean-forward="true" selection-start-line="606" selection-start-column="54" selection-end-line="606" selection-end-column="54" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="485">
@@ -312,10 +296,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/form-submission-handler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="91" column="53" selection-start-line="91" selection-start-column="48" selection-end-line="91" selection-end-column="53" />
+          <folding>
+            <element signature="e#87#1563#0" />
+            <element signature="e#1600#2887#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="571" column="54" lean-forward="true" selection-start-line="571" selection-start-column="54" selection-end-line="571" selection-end-column="54" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="3820" column="16" selection-start-line="3820" selection-start-column="16" selection-end-line="3820" selection-end-column="16" />
+        <state relative-caret-position="579">
+          <caret line="3842" column="2" selection-start-line="3842" selection-start-column="2" selection-end-line="3842" selection-end-column="2" />
         </state>
       </provider>
     </entry>
