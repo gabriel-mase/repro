@@ -1078,7 +1078,7 @@ input[type="email"] {
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     padding: 0 15px;
-    margin: 40px 20px;
+    margin: 30px 20px 15px 20px;
     outline: none;
 }
 .from_area textarea {
@@ -3748,6 +3748,28 @@ section#map_area {
 
 .payments-logos div {
   margin-top: 16px;
+}
+
+.form-inputs {
+  display: flex;
+  justify-content: center;
+}
+
+.select select {
+  width: 220px;
+  height: 45px;
+  float: left;
+  border: 1px solid rgba(255, 255, 255, 0.57);
+  background: none;
+  color: rgba(255, 255, 255, 0.57);
+  font-size: 13px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  padding: 0 15px;
+  margin: 30px 20px 15px 20px;
+  outline: none;
+  -webkit-appearance: none;
+  border-radius: 0;
 }
 
 
