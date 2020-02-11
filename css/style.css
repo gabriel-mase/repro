@@ -3811,4 +3811,13 @@ section#map_area {
   header .header_contact_area {
     display: none;
   }
+
+  .form-inputs {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .select {
+    width: 100%;
+  }
 }

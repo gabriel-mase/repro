@@ -1352,7 +1352,7 @@
 	  width: 100%;
 	  padding-bottom: 30px;
 	}
-	.form-one {
+  .select select, .form-one {
 	  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
 	  border: 1px solid #3c3c3c;
 	  color: #515151;
