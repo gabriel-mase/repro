@@ -3733,8 +3733,8 @@ section#map_area {
   right: -20px;
 }
 
-.nav_area div:last-child {
-  z-index: 999;
+.nav_area .col-xs-12:last-child {
+  z-index: 9991;
 }
 
 .payments-logos {
@@ -3796,7 +3796,11 @@ section#map_area {
   }
 
   .nav_area div:first-child {
-    z-index: 9999;
+    z-index: 999;
+  }
+
+  .nav_area .col-xs-12:last-child {
+    width: 70%;
   }
 
   #porque_area {
