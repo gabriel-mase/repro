@@ -3782,6 +3782,10 @@ section#map_area {
   color: #2c8a2c;
 }
 
+.select select option {
+ color: #333333;
+}
+
 
 @media only screen and (min-width: 600px) {
   .team {
