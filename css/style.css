@@ -3745,6 +3745,10 @@ section#map_area {
   align-items: center;
 }
 
+.payments-logos p {
+  font-size: 22px !important;
+}
+
 .payments-logos img {
   height: 35px !important;
   width: auto !important;
@@ -3787,6 +3791,10 @@ section#map_area {
   .team {
     display: flex;
     justify-content: center;
+  }
+
+  .rev_slider_wrapper #slider1 .tp-caption br {
+    display: none !important;
   }
 }
 
@@ -3847,5 +3855,17 @@ section#map_area {
   #packege_area_3 {
     height: 400px;
     padding-top: 0;
+  }
+
+  .payments-logos p, .payments-logos p b {
+    font-size: 13px !important;
+  }
+
+  .rev_slider_wrapper #slider1 .slider_h1 span b, .rev_slider_wrapper #slider1 .slider_h1 span {
+    font-size: 15px !important;
+  }
+
+  .rev_slider_wrapper #slider1 .slider_p {
+    margin-top: 16px !important;
   }
 }
