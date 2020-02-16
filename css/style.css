@@ -538,10 +538,6 @@ input[type="email"] {
 
 }
 
-#packege_area .packege_details p, #packege_area .packege_details h2, #packege_area .packege_details h2 span {
-  color:#333333 !important;
-}
-
 .packege_details p{
   color:#fff;
   font-size:18px;
@@ -3848,17 +3844,21 @@ section#map_area {
   }
 
   #packege_area_2 {
-    height: 300px;
+    height: 350px;
     padding-top: 0;
+    background: #000 url(../img/home-v1/vtv-vacaciones-bg-mobile.jpg);
+    background-size: cover;
   }
 
   #packege_area_3 {
-    height: 400px;
+    height: 350px;
+    background: url(../img/home-v1/aire-acondicionado-bg-mobile.jpg);
     padding-top: 0;
+    background-size: cover;
   }
 
   .payments-logos p, .payments-logos p b {
-    font-size: 13px !important;
+    font-size: 12px !important;
   }
 
   .rev_slider_wrapper #slider1 .slider_h1 span b, .rev_slider_wrapper #slider1 .slider_h1 span {
@@ -3867,5 +3867,71 @@ section#map_area {
 
   .rev_slider_wrapper #slider1 .slider_p {
     margin-top: 16px !important;
+  }
+
+  #page_heading_area {
+    height: 200px !important;
+    display: flex;
+    align-items: center;
+    background: url(../img/home-v1/mecanica_integral_bg-mobile.jpg);
+    background-size: cover;
+  }
+
+  #page_heading_area_2 {
+    height: 200px !important;
+    display: flex;
+    align-items: center;
+    background: url(../img/home-v1/inyeccion-electronica_bg-mobile.jpg);
+    background-size: cover;
+  }
+
+  #page_heading_area_3 {
+    height: 200px !important;
+    display: flex;
+    align-items: center;
+    background: url(../img/home-v1/climatizacion_bg-mobile.jpg);
+    background-size: cover;
+  }
+
+  #page_heading_area_4 {
+    height: 200px !important;
+    display: flex;
+    align-items: center;
+    background: url(../img/home-v1/service-programado_bg-mobile.jpg);
+    background-size: cover;
+  }
+
+  #page_heading_area_5 {
+    height: 200px !important;
+    display: flex;
+    align-items: center;
+    background: url(../img/home-v1/service_peugeot_bg-mobile.jpg);
+    background-size: cover;
+  }
+
+  #page_heading_area_6 {
+    height: 200px !important;
+    display: flex;
+    align-items: center;
+    background: url(../img/home-v1/service_volkswagen-bg-mobile.jpg);
+    background-size: cover;
+  }
+
+  .single_service_heading {
+    padding-top: 8px !important;
+  }
+
+  .page_heading h2, .single_service_heading h2 {
+    font-size: 22px !important;
+    margin: 20px 16px !important;
+    padding: 16px !important;
+  }
+
+  .packege_details h2 span {
+    font-size: 18px !important;
+  }
+
+  .packege_details p {
+    font-size: 15px !important;
   }
 }

@@ -486,7 +486,7 @@
 
 	/*** Packge area start ***/
 	#packege_area {
-	  background: rgba(0, 0, 0, 0) url("../img/home-v1/packge-bg.jpg") repeat scroll 0 0 / cover ;
+	  background: rgba(0, 0, 0, 0) url("../img/home-v1/vtv-bg-mobile.jpg") repeat scroll 0 0 / cover ;
 	  height: 100%;
 	  padding-bottom: 30px;
 	  padding-top: 40px;
@@ -1267,7 +1267,7 @@
 	}
 	/*** Packge area start ***/
 	#packege_area {
-	  background: rgba(0, 0, 0, 0) url("../img/home-v1/packge-bg.jpg") repeat scroll 0 0 / cover ;
+    background: rgba(0, 0, 0, 0) url("../img/home-v1/vtv-bg-mobile.jpg") repeat scroll 0 0 / cover ;
 	  height: 100%;
 	  padding-bottom: 30px;
 	  padding-top: 40px;
@@ -1275,6 +1275,11 @@
 	  display: inline-block;
 	  text-align: center;
 	}
+
+  #packege_area .packege_details p, #packege_area .packege_details h2, #packege_area .packege_details h2 span {
+    color: #fff !important;
+  }
+
 	.packege_button {
 	  float: none;
 	  padding-top: 40px !important;
@@ -2412,7 +2417,6 @@
 	  padding: 1% 0;
 	}
 	#page_heading_area {
-	  background: rgba(0, 0, 0, 0) url("../img/page-heading/page_heading_bg.jpg") repeat scroll 0 0 / cover ;
 	  height: 100%;
 	  width: 100%;
 	}
