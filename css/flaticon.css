@@ -1,0 +1,58 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("../fonts/flaticon.eot");
+	src: url("../fonts/flaticon.eot#iefix") format("embedded-opentype"),
+	url("../fonts/flaticon.woff") format("woff"),
+	url("../fonts/flaticon.ttf") format("truetype"),
+	url("../fonts/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+       
+}
+.flaticon-check52:before {
+	content: "\e000";
+}
+.flaticon-connection28:before {
+	content: "\e001";
+}
+.flaticon-hammer58:before {
+	content: "\e002";
+}
+.flaticon-messages8:before {
+	content: "\e003";
+}
+.flaticon-pin56:before {
+	content: "\e004";
+}
+.flaticon-plus79:before {
+	content: "\e005";
+}
+.flaticon-right11:before {
+	content: "\e006";
+}
+.flaticon-rocketship4:before {
+	content: "\e007";
+}
+.flaticon-send4:before {
+	content: "\e008";
+}
+.flaticon-speech117:before {
+	content: "\e009";
+}
+.flaticon-speed2:before {
+	content: "\e00a";
+}
+.flaticon-telephone51:before {
+	content: "\e00b";
+}
+.flaticon-transport1054:before {
+	content: "\e00c";
+}
+
+.flaticon-hammer:before { 
+	content: "\f100"; 
+}

@@ -1,0 +1,159 @@
+
+#banner_area{
+  height:300px;
+  width:590px;	
+  margin:0 auto;
+}
+.banner_content{
+	background:url(../img/Banner/benner.jpg);
+	height:300px;
+	width:590px;
+}
+.banner_left{
+	width:200px;
+	float:left;
+}
+.banner_logo {
+    padding: 10% 10%;
+}
+.banner_logo img{}
+.feature_list {
+    margin-left: 10%;
+}
+.feature_list ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+	overflow:hidden;
+}
+.feature_list ul li{
+	float:left;
+}
+.feature_list ul li span {
+    width: 5px;
+    height: 5px;
+    border: 2px solid #6cc72f;
+    overflow: hidden;
+    display: block;
+    border-radius: 100%;
+    float: left;
+    margin-top: 9px;
+    margin-left: 12px;
+}
+.feature_list ul li a {
+    text-decoration: none;
+    font-family: Muli;
+    color: #292929;
+    padding-left: 8px;
+	font-size:13px;
+	line-height:25px;
+}
+.banner_right {
+    width: 300px;
+    float: right;
+}
+.banner_h2{}
+.banner_h2 h2 {
+    font-size: 12px;
+    font-family: Montserrat;
+    font-weight: 700;
+    margin-left: 18%;
+    padding-top: 10%;
+}
+.banner_right{}
+.banner_bottom{}
+.banner_bottom img{
+	width:300px;
+}
+.banner_top{}
+.banner_top img {
+    position: absolute;
+    top: 19%;
+    margin-left: -88px;
+    width: 265px;
+}
+@media only screen and (min-width: 1200px) and (max-width: 1599px) {
+	 
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+	.banner_top img {
+	  margin-left: -88px;
+	  position: absolute;
+	  top: 17%;
+	  width: 265px;
+	}
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.banner_top img {
+	  margin-left: -88px;
+	  position: absolute;
+	  top: 13%;
+	  width: 265px;
+	} 
+	
+}
+
+@media only screen and (max-width: 767px) {
+	.banner_top img {
+	  margin-left: -88px;
+	  position: absolute;
+	  top: 20 !important%;
+	  width: 265px;
+	} 
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	 
+}
+@media only screen and (min-width: 640px) and (max-width: 767px) {
+	
+	.banner_top img {
+	  margin-left: -88px;
+	  position: absolute;
+	  top: 17%;
+	  width: 265px;
+	} 
+}
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+	.banner_left {
+	  float: none;
+	  width: 200px;
+	}
+	.banner_right {
+	  float: none;
+	  width: 100%;
+	}
+	.banner_content {
+	  background: rgba(0, 0, 0, 0) url("img/Banner/benner.jpg") repeat scroll 0 0 / cover ;
+	  height: 100%;
+	  width: 100%;
+	}
+	#banner_area {
+	  height: 100%;
+	  margin: 0 auto;
+	  width: 100%;
+	}
+	.banner_top img {
+	  margin-left: 0;
+	  position: unset;
+	  top: 0;
+	  width: 100%;
+	}
+	.banner_bottom img {
+	  padding-top: 2%;
+	  width: 100%;
+	}
+	
+	.banner_right {
+	  float: none;
+	  padding-top: 3%;
+	  width: 100%;
+	}
+	
+	
+	
+	
+	
+	
+}

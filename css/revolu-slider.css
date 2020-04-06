@@ -1,0 +1,49 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,600italic,700,700italic,800,800italic,300italic);
+@import url(https://fonts.googleapis.com/css?family=Arvo:400,400italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Poppins:400,300,500,600,700);
+
+/********** Slider ********/
+
+
+.construct-banner-wrapper #slider1 .slider_h3 {
+    font-family: 'Open Sans', sans-serif ;
+    font-size: 16px ;
+    text-align: center;
+    font-weight: 600 ;
+    color: #fff; 
+	letter-spacing:2px;
+  text-transform: uppercase;
+}
+.construct-banner-wrapper #slider1 .slider_h1 {
+    font-family: 'Open Sans', sans-serif ;
+    font-size: 50px ; 
+    font-weight: 900 ;
+    color: #fff;
+    text-transform: uppercase;
+	line-height:60px ;
+}
+.construct-banner-wrapper #slider1 .slider_p {
+    font-family: Open Sans;
+    text-transform: uppercase;
+    font-size: 18px ;
+    color: 141414;   
+    font-weight: 600;
+}
+.construct-banner-wrapper #slider1 .btn.btn-default.slider-btn {
+	font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-size: 13px ;
+    color: #fff ;
+    text-align: center ;
+    text-decoration: none ;
+    border-radius: 0px ;
+    background: #ef5050 ; 
+    background: #F05050;
+    font-weight: 700 ;
+	border:0px solid ;
+  line-height: 44px;
+  padding: 0 20px;
+}
+.construct-banner-wrapper #slider1 button.btn.btn-default.slider-btn:hover { 
+  color:#fff    
+}
