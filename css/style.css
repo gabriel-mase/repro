@@ -876,8 +876,8 @@ input[type="email"] {
 }
 #contact img{
     object-fit: contain;
-    width: 25px;
-    height: 25px;
+    width: 30px;
+    height: 30px;
 }
 /** gallery_area **/
 #gallery_area {
