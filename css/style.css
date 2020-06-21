@@ -142,10 +142,10 @@ input[type="email"] {
 	font-size:14px;
 }
 
-.column_details  p{
+.column_details p{
 	font-family: 'Open Sans', sans-serif;
 	color:#ef5050;
-	font-size:15px;
+	font-size:16px;
 }
 .details_icon i {
     margin-left: 15px;
@@ -159,8 +159,8 @@ input[type="email"] {
 
 .column_right h2 {
     font-family: 'Open Sans', sans-serif;
-    color: #575757;
-    font-size: 14px;
+    color: rgba(180, 175, 175, 0.856);
+    font-size: 16px;
     line-height: 0px;
 }
 .column_right h3{
@@ -190,7 +190,8 @@ input[type="email"] {
 }
 .column_right {
     float: right;
-	width:75%;
+    width:75%;
+    font-size: 20px;
 
 }
 .column_three h3{
@@ -862,7 +863,7 @@ input[type="email"] {
     width: 75px;
     height: 70px;
     line-height: 70px;
-    background-color: #075E54;
+    background-color: transparent;
     position: fixed ;
     display: flex;
     justify-content: center;
@@ -872,12 +873,11 @@ input[type="email"] {
     cursor: pointer;
     z-index: 10000;
     bottom: 20px;
-        box-shadow: 0 3px 5px -1px rgba(0,0,0,.2), 0 6px 10px 0 rgba(0,0,0,.14), 0 1px 18px 0 rgba(0,0,0,.12);
 }
 #contact img{
     object-fit: contain;
-    width: 30px;
-    height: 30px;
+    width: 75px;
+    height: 80px;
 }
 /** gallery_area **/
 #gallery_area {
