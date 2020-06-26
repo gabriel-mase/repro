@@ -231,7 +231,15 @@ input[type="email"] {
 .nav-area-fixed {
     bottom: 8px;
 }
+.fixed-button-llamanos-ahora {
+background-color: #357ebd;
+border-radius: 14px 14px 14px 14px;
+box-shadow: 1px 4px 4px #333333;
 
+}
+.button-llamanos-ahora-col {
+
+}
 .logo_hide {
 	display:none;
 }
@@ -3848,6 +3856,7 @@ section#map_area {
 
   #header_area .logo_area > div:before {
     content: none;
+    background-color: #333 !important;
   }
 
   header .header_top_bar {
