@@ -228,6 +228,10 @@ input[type="email"] {
 /******** Top Bar Styles ***********/
 
 /************ Main menu style ************/
+.nav-area-fixed {
+    bottom: 8px;
+}
+
 .logo_hide {
 	display:none;
 }
