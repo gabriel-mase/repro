@@ -15,6 +15,21 @@
   text-transform: uppercase;
   width: 150px !important;
 }
+/**llamanos area start **/
+.button-llamanos-ahora-col {
+	;
+	}
+	.fixed-button-llamanos-ahora {
+		
+	}
+	#btn-llamanos-ahora-fijo {
+
+	}
+	#btn-llamanos-ahora-celular {
+		float: right;
+
+	}
+	/**llamanos area end **/
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -112,6 +127,22 @@
 	  width: 100%;
 	}
 	/*** team area end ***/
+
+	/**llamanos area start **/
+	.button-llamanos-ahora-col {
+	;
+	}
+	.fixed-button-llamanos-ahora {
+		
+	}
+	#btn-llamanos-ahora-fijo {
+
+	}
+	#btn-llamanos-ahora-celular {
+		float: right;
+
+	}
+	/**llamanos area end **/
 
 	/** From area start **/
 		.from_area {
@@ -387,7 +418,12 @@
 
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+/**llamanos area start **/
+	.button-llamanos-ahora-col {
+		left: 0px;
+		padding: 0px;
+	} 
+	/**llamanos area end **/
 	/*** menu style **/
 
 
@@ -2693,6 +2729,7 @@
 	  width: 100%;
 	  padding-bottom: 30px;
 	}
+	
 	#faq_area {
 	overflow: hidden;
 	padding-top: 50px;
@@ -2748,3 +2785,10 @@
 
 	}
 }
+/** llamanos ahora start area **/ 
+.button-llamanos-ahora-col {
+	padding: 0px;
+	left: 0px;
+	padding-bottom: 20px;
+}
+/** llamanos ahora end area **/ 
