@@ -235,10 +235,13 @@ input[type="email"] {
 background-color: #357ebd;
 border-radius: 14px 14px 14px 14px;
 box-shadow: 1px 4px 4px #333333;
-
+width: 260px;
+height: 40px;
+font-size:20px ;
 }
 .button-llamanos-ahora-col {
-
+left: 286px;
+top: 20px;
 }
 .logo_hide {
 	display:none;
