@@ -239,6 +239,11 @@ width: 260px;
 height: 40px;
 font-size:20px ;
 }
+#btn-llamanos-ahora-celular {
+float: right ;}
+#btn-llamanos-ahora-fijo {
+    float: left;
+}
 .button-llamanos-ahora-col {
 left: 286px;
 top: 20px;
