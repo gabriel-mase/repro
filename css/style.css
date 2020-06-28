@@ -231,23 +231,28 @@ input[type="email"] {
 .nav-area-fixed {
     bottom: 8px;
 }
+/************ llamanos ahora style ************/
+
 .fixed-button-llamanos-ahora {
 background-color: #357ebd;
 border-radius: 14px 14px 14px 14px;
 box-shadow: 1px 4px 4px #333333;
 width: 260px;
 height: 40px;
-font-size:20px ;
+font-size: 20px;
 }
 #btn-llamanos-ahora-celular {
-float: right ;}
+padding-left: 400px !important;
+}
 #btn-llamanos-ahora-fijo {
-    float: left;
+padding-left: 200px !important;
 }
 .button-llamanos-ahora-col {
 left: 286px;
 top: 20px;
 }
+/************ llamanos ahora style ************/
+
 .logo_hide {
 	display:none;
 }
