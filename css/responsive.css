@@ -22,11 +22,10 @@
 	.fixed-button-llamanos-ahora {}
 
 	#btn-llamanos-ahora-fijo {
-		padding-left: 202px !important;
 	}
 
 	#btn-llamanos-ahora-celular {
-		padding-left: 400px !important;
+		left: 0px !important;
 	}
 
 	/**llamanos area end **/
@@ -151,13 +150,13 @@
 	.fixed-button-llamanos-ahora {}
 
 	#btn-llamanos-ahora-fijo {
-		padding-left: 100px !important;
+		padding-left: 180px !important;
 
 	}
 
 	#btn-llamanos-ahora-celular {
 
-		padding-left: 350px !important;
+		padding-left: 250px !important;
 	}
 
 	/**llamanos area end **/
@@ -242,11 +241,6 @@
 		padding-top: 25px;
 		width: 76%;
 	}
-
-
-
-
-
 
 	/** Faq area start **/
 
@@ -469,23 +463,21 @@
 		overflow: hidden;
 		width: 100%;
 	}
-
 }
+
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
 	/**llamanos area start **/
-	.button-llamanos-ahora-col {
-		left: 0px;
-		padding: 0px;
-	}
+	.button-llamanos-ahora-col {}
 
 	#btn-llamanos-ahora-fijo {
+		padding-left: 150px !important;
 
 	}
 
 	#btn-llamanos-ahora-celular {
-		padding-left: 250px !important;
+		padding-left: 150px !important;
 
 	}
 
@@ -1032,12 +1024,12 @@
 	.button-llamanos-ahora-col {}
 
 	#btn-llamanos-ahora-celular {
-		left: -200px !important;
+		left: -100px !important;
 	}
 
 
 	#btn-llamanos-ahora-fijo {
-		left: -55px !important;
+		left: -63px !important;
 	}
 
 	/** llamanos ahora end area **/
@@ -2164,19 +2156,16 @@
 
 @media only screen and (min-width: 360px) and (max-width: 640px) {
 	/** llamanos ahora start area **/
-	/* .button-llamanos-ahora-col {
-	padding: 0px;
-	left: 0px;
+	.button-llamanos-ahora-col {
+	padding-bottom: 10px !important;
 }
 
 #btn-llamanos-ahora-celular {
-	padding-left: px !important; 
 }
 
 #btn-llamanos-ahora-fijo {
-	padding-right: 200px !important; 
 
-} */
+}
 
 	/** llamanos ahora end area **/
 
@@ -2282,6 +2271,7 @@
 	.button-llamanos-ahora-col {
 		padding: 0px;
 		left: 0px;
+		padding-bottom: 10px !important;
 	}
 
 	#btn-llamanos-ahora-celular {
@@ -3273,21 +3263,21 @@
 		/* background: #1D1D1D; */
 
 	}
-}
 
-/** llamanos ahora start area **/
-.button-llamanos-ahora-col {
-	padding: 0px;
-	left: 0px;
-	padding-bottom: 20px;
-}
 
-#btn-llamanos-ahora-celular {
-	padding-left: 10px;
-}
+	/** llamanos ahora start area **/
+	.button-llamanos-ahora-col {
+		padding: 0px;
+		left: 0px;
+		padding-bottom: 20px;
+	}
 
-#btn-llamanos-ahora-fijo {
-	padding-left: 10px
-}
+	#btn-llamanos-ahora-celular {
+		padding-left: 10px;
+	}
 
-/** llamanos ahora end area **/
+	#btn-llamanos-ahora-fijo {
+		padding-left: 10px
+	}
+
+}
