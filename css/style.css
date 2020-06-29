@@ -119,7 +119,7 @@ input[type="email"] {
   position: absolute;
   top: -20px;
   right: 20px;
-  background: #1D1D1D;
+  /* background: #1D1D1D; */
   width: 2000px;
   height: 190px;
 }
@@ -242,7 +242,7 @@ height: 40px;
 font-size: 20px;
 }
 #btn-llamanos-ahora-celular {
-padding-left: 400px !important;
+padding-left: 280px !important;
 }
 #btn-llamanos-ahora-fijo {
 padding-left: 200px !important;
