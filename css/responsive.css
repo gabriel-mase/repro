@@ -21,8 +21,7 @@
 
 	.fixed-button-llamanos-ahora {}
 
-	#btn-llamanos-ahora-fijo {
-	}
+	#btn-llamanos-ahora-fijo {}
 
 	#btn-llamanos-ahora-celular {
 		left: 0px !important;
@@ -2155,17 +2154,17 @@
 @media only screen and (min-width: 480px) and (max-width: 767px) {}
 
 @media only screen and (min-width: 360px) and (max-width: 640px) {
+
 	/** llamanos ahora start area **/
 	.button-llamanos-ahora-col {
-	padding-bottom: 10px !important;
-}
+		padding-bottom: 10px !important;
+	}
 
-#btn-llamanos-ahora-celular {
-}
+	#btn-llamanos-ahora-celular {
+		top: 30px;
+	}
 
-#btn-llamanos-ahora-fijo {
-
-}
+	#btn-llamanos-ahora-fijo {}
 
 	/** llamanos ahora end area **/
 
