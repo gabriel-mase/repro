@@ -242,13 +242,16 @@ width: 300px;
 font-size: 25px;
 padding-top: 2px !important;
 }
+#porque_area h2 {
+}
 #btn-llamanos-ahora-celular {
 }
 #btn-llamanos-ahora-fijo {
 }
 .button-llamanos-ahora-col {
-    padding-left: 250px ;
+    padding-left: 240px ;
    top: 20px;
+   
 }
 /************ llamanos ahora style ************/
 
