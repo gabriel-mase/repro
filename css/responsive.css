@@ -2164,7 +2164,10 @@
 		top: 30px;
 	}
 
-	#btn-llamanos-ahora-fijo {}
+	#btn-llamanos-ahora-fijo {
+		left: -6px;
+		
+	}
 
 	/** llamanos ahora end area **/
 
