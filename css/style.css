@@ -237,19 +237,21 @@ input[type="email"] {
 background-color: #357ebd;
 border-radius: 14px 14px 14px 14px;
 box-shadow: 1px 4px 4px #333333;
-width: 260px;
 height: 40px;
-font-size: 20px;
+width: 300px;
+font-size: 25px;
+padding-top: 2px !important;
+}
+#porque_area h2 {
 }
 #btn-llamanos-ahora-celular {
-padding-left: 280px !important;
 }
 #btn-llamanos-ahora-fijo {
-padding-left: 200px !important;
 }
 .button-llamanos-ahora-col {
-left: 286px;
-top: 20px;
+    padding-left: 240px ;
+   top: 20px;
+   
 }
 /************ llamanos ahora style ************/
 
