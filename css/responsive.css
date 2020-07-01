@@ -28,6 +28,11 @@
 	}
 
 	/**llamanos area end **/
+	.nav .open>a,
+	.nav .open>a:hover,
+	.nav .open>a:focus {
+		background: inherit !important;
+	}
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -35,8 +40,14 @@
 
 	/** menu area start ***/
 	.nav_area {
-		height: 70px;
+		height: 60px;
 		width: 100% !important;
+	}
+
+	.nav .open>a,
+	.nav .open>a:hover,
+	.nav .open>a:focus {
+		background: inherit !important;
 	}
 
 	.mainmenu li a {
@@ -1243,11 +1254,15 @@
 	}
 
 	.navbar-nav>li>.dropdown-menu {
-		background: #ef5050 none repeat scroll 0 0;
 		border-top-left-radius: 0;
 		border-top-right-radius: 0;
 		color: #fff;
 		width: 100% !important;
+	}
+	.nav .open>a,
+	.nav .open>a:hover,
+	.nav .open>a:focus {
+		background: inherit !important;
 	}
 
 	.nav_area {
@@ -2164,7 +2179,15 @@
 		top: 30px;
 	}
 
-	#btn-llamanos-ahora-fijo {}
+	#btn-llamanos-ahora-fijo {
+		left: -6px;
+
+	}
+	.nav .open>a,
+	.nav .open>a:hover,
+	.nav .open>a:focus {
+		background: inherit !important;
+	}
 
 	/** llamanos ahora end area **/
 
@@ -2282,6 +2305,11 @@
 	}
 
 	/** llamanos ahora end area **/
+	.nav .open>a,
+	.nav .open>a:hover,
+	.nav .open>a:focus {
+		background: inherit !important;
+	}
 
 }
 
@@ -2312,6 +2340,11 @@
 		border-top-right-radius: 0;
 		color: #fff;
 		width: 100% !important;
+	}
+	.nav .open>a,
+	.nav .open>a:hover,
+	.nav .open>a:focus {
+		background: inherit !important;
 	}
 
 	figure.effect-chico p {
@@ -2573,6 +2606,11 @@
 		border-top-right-radius: 0;
 		color: #fff;
 		width: 100% !important;
+	}
+	.nav .open>a,
+	.nav .open>a:hover,
+	.nav .open>a:focus {
+		background: inherit !important;
 	}
 
 	.column_three {
@@ -3190,6 +3228,11 @@
 
 		padding-top: 6px;
 	}
+	.nav .open>a,
+	.nav .open>a:hover,
+	.nav .open>a:focus {
+		background: inherit !important;
+	}
 
 
 }
@@ -3277,6 +3320,11 @@
 
 	#btn-llamanos-ahora-fijo {
 		padding-left: 10px
+	}
+	.nav .open>a,
+	.nav .open>a:hover,
+	.nav .open>a:focus {
+		background: inherit !important;
 	}
 
 }
