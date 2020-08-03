@@ -1514,6 +1514,20 @@
 		margin: 0 4%;
 		width: 266px;
 	}
+	.btn-primary {
+		background-color: transparent;
+		border-color: transparent;
+		height: 35px;
+		border-radius: 30px 30px;
+		margin-top: 7px;
+	}
+	.btn-primary a {
+		top: -23px;
+	}
+	.btn-primary hover {
+		background-color: transparent;
+		border-color: transparent;
+	}
 
 	/**** responsive menu finish ****/
 
