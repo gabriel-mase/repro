@@ -231,18 +231,26 @@ input[type="email"] {
 .nav-area-fixed {
     bottom: 8px;
 }
-.btn-primary {
-    background-color: #357ebd;
+
+.btn-nav-consulta-li-container {
+}
+.btn-nav-consulta {
     border-color: #357ebd;
-    height: 35px;
-    border-radius: 30px 30px;
+    background-color: #357ebd;
+    height: 34px;
+    border-radius: 14px 14px 14px 14px;
+    font-size: 14px;
+    font-weight: 700;
     margin-top: 7px;
+    margin-left: 8px;
+    color: #ffffff !important;
+
 }
-.btn-primary a {
-    top: -23px;
+.btn-nav-consulta-a {
 }
-.btn-primary a:hover {
-background: none !important;
+.btn-nav-consulta a:hover {
+    background: none !important;
+
 }
 /************ llamanos ahora style ************/
 

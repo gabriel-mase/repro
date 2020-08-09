@@ -1514,17 +1514,19 @@
 		margin: 0 4%;
 		width: 266px;
 	}
-	.btn-primary {
+	.btn-nav-consulta {
 		background-color: transparent;
 		border-color: transparent;
 		height: 35px;
 		border-radius: 30px 30px;
 		margin-top: 7px;
+		
 	}
-	.btn-primary a {
+	.btn-nav-consulta-a  {
 		top: -23px;
+		color: #ffffff;
 	}
-	.btn-primary hover {
+	.btn-nav-consulta  hover {
 		background-color: transparent;
 		border-color: transparent;
 	}
