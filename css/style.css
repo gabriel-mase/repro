@@ -96,7 +96,7 @@ input[type="email"] {
   font-weight: normal;
   background-color: transparent;
 }
- 
+
 
 /**
 /*******************************
@@ -230,27 +230,6 @@ input[type="email"] {
 /************ Main menu style ************/
 .nav-area-fixed {
     bottom: 8px;
-}
-
-.btn-nav-consulta-li-container {
-}
-.btn-nav-consulta {
-    border-color: #357ebd;
-    background-color: #357ebd;
-    height: 34px;
-    border-radius: 14px 14px 14px 14px;
-    font-size: 14px;
-    font-weight: 700;
-    margin-top: 7px;
-    margin-left: 8px;
-    color: #ffffff !important;
-
-}
-.btn-nav-consulta-a {
-}
-.btn-nav-consulta a:hover {
-    background: none !important;
-
 }
 /************ llamanos ahora style ************/
 
