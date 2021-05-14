@@ -206,6 +206,9 @@ input[type="email"] {
 .column_details{
 	float:left;
 }
+.mobile-adress {
+    display: none;
+}
 
 .column_right h2 {
     font-family: 'Open Sans', sans-serif;
