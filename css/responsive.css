@@ -1031,9 +1031,10 @@
 	}
 	.mobile-adress {
 		display: block;
-		font-size: 25px;
 	}
-
+	.mobile-adress-a {
+		font-size: 22px;
+	}
 	/** llamanos ahora start area **/
 	.button-llamanos-ahora-col {}
 
@@ -1238,8 +1239,11 @@
 
 @media only screen and (max-width: 767px) {
 	.mobile-adress {
-		font-size: 25px;
 		display: block;
+
+	}
+	.mobile-adress-a {
+		font-size: 22px;
 
 	}
 	/*** top bar area ***/
@@ -2199,8 +2203,10 @@
 		padding-bottom: 10px !important;
 	}
 	.mobile-adress {
-		font-size: 25px;
 		display: block;
+	}
+	.mobile-adress-a {
+		font-size: 22px;
 
 	}
 
@@ -2231,9 +2237,11 @@
 		padding-bottom: 30px;
 	}
 	.mobile-adress {
-		font-size: 25px;
 		display: block;
 
+	}
+	.mobile-adress-a {
+		font-size: 22px;
 	}
 	#appointment_area {
 		background: rgba(0, 0, 0, 0) url("../img/home-v1/form-bg.jpg") repeat scroll 0 0 / cover;
@@ -2348,8 +2356,11 @@
 
 @media only screen and (min-width: 640px) and (max-width: 767px) {
 	.mobile-adress {
-		font-size: 25px;
 		display: block;
+
+	}
+	.mobile-adress-a {
+		font-size: 22px;
 
 	}
 	/*** top bar area ***/
@@ -2604,8 +2615,11 @@
 
 @media only screen and (min-width: 320px) and (max-width: 480px) {
 	.mobile-adress {
-		font-size: 25px;
 		display: block;
+
+	}
+	.mobile-adress-a {
+		font-size: 22px;
 
 	}
 
@@ -3213,9 +3227,10 @@
 
 @media only screen and (min-width : 414px) and (max-width : 736px) {
 	.mobile-adress {
-		font-size: 25px;
 		display: block;
-
+	}
+	.mobile-adress-a {
+		font-size: 22px;
 	}
 	#appointment_area {
 		background: rgba(0, 0, 0, 0) url("../img/home-v1/form-bg.jpg") repeat scroll 0 0 / cover;
@@ -3286,9 +3301,10 @@
 
 @media only screen and (min-width: 375px) and (max-width: 667px) {
 	.mobile-adress {
-		font-size: 25px;
 		display: block;
-
+	}
+	.mobile-adress-a {
+		font-size: 22px;
 	}
 	.from_area {
 		background: #232425 none repeat scroll 0 0;
