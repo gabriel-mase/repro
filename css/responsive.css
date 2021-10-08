@@ -18,6 +18,9 @@
 
 	/**llamanos area start **/
 	.button-llamanos-ahora-col {}
+	.bosch-service-logo-responsive {
+		display: block;
+	}
 
 	.fixed-button-llamanos-ahora {}
 
@@ -37,6 +40,12 @@
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	/*** home page version-1 ******/
+.bosch-service {
+	display: none;
+}
+.bosch-service-logo-responsive {
+	display: block;
+}
 
 	/** menu area start ***/
 	.nav_area {
@@ -477,6 +486,12 @@
 
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
+	.bosch-service {
+		display: none;
+	}
+	.bosch-service-logo-responsive {
+		display: block;
+	}
 
 	/**llamanos area start **/
 	.button-llamanos-ahora-col {}
@@ -1035,6 +1050,13 @@
 	.mobile-adress-a {
 		font-size: 22px;
 	}
+	.bosch-service {
+		display: none;
+	}
+	.bosch-service-logo-responsive {
+		display: block;
+	}
+
 	/** llamanos ahora start area **/
 	.button-llamanos-ahora-col {}
 
@@ -1238,6 +1260,13 @@
 }
 
 @media only screen and (max-width: 767px) {
+	.bosch-service {
+		display: none;
+	}
+	.bosch-service-logo-responsive {
+		display: block;
+	}
+
 	.mobile-adress {
 		display: block;
 
@@ -2197,6 +2226,12 @@
 @media only screen and (min-width: 480px) and (max-width: 767px) {}
 
 @media only screen and (min-width: 360px) and (max-width: 640px) {
+	.bosch-service {
+		display: none;
+	}
+	.bosch-service-logo-responsive {
+		display: block;
+	}
 
 	/** llamanos ahora start area **/
 	.button-llamanos-ahora-col {
@@ -2229,6 +2264,13 @@
 }
 
 @media only screen and (min-width: 320px) and (max-width:568px) {
+	.bosch-service {
+		display: none;
+	}
+	.bosch-service-logo-responsive {
+		display: block;
+	}
+
 	.from_area {
 		background: #232425 none repeat scroll 0 0;
 		height: 100%;
@@ -2359,6 +2401,13 @@
 		display: block;
 
 	}
+	.bosch-service {
+		display: none;
+	}
+	.bosch-service-logo-responsive {
+		display: block;
+	}
+
 	.mobile-adress-a {
 		font-size: 22px;
 
@@ -2621,6 +2670,12 @@
 	.mobile-adress-a {
 		font-size: 22px;
 
+	}
+	.bosch-service {
+		display: none;
+	}
+	.bosch-service-logo-responsive {
+		display: block;
 	}
 
 	/*** top bar area ***/
@@ -3237,6 +3292,12 @@
 		height: 100%;
 		padding-bottom: 50px;
 	}
+	.bosch-service {
+		display: none;
+	}
+	.bosch-service-logo-responsive {
+		display: block;
+	}
 
 	.from_area {
 		background: #232425 none repeat scroll 0 0;
@@ -3313,7 +3374,12 @@
 		width: 100%;
 		padding-bottom: 30px;
 	}
-
+	.bosch-service {
+		display: none;
+	}
+	.bosch-service-logo-responsive {
+		display: block;
+	}
 	#faq_area {
 		overflow: hidden;
 		padding-top: 50px;
