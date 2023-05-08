@@ -672,8 +672,8 @@ padding-top: 2px !important;
     padding-top: 40px !important;
 }
 .btn-packege{
-	width:180px;
-	height:50px;
+	width:210px;
+	height:55px;
 	border:0px solid;
 	border-radius:0px;
 	color:#fff;
@@ -685,14 +685,14 @@ padding-top: 2px !important;
 	text-align:center
 }
 .btn-packege:hover{
-	width:180px;
-	height:50px;
+	width:210px;
+	height:55px;
 	border:1px solid;
 	border-radius:0px;
 	color:#fff;
 	font-size:13px;
 	font-family:'Open Sans', sans-serif;
-	font-weight:500;
+	font-weight:700;
 	background:#0092FF;
 	text-transform:uppercase;
 	text-align:center
