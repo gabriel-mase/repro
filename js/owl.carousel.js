@@ -111,7 +111,7 @@ if (typeof Object.create !== "function") {
                 base.transitionTypes(base.options.transitionStyle);
             }
             if (base.options.autoPlay === true) {
-                base.options.autoPlay = 5000;
+                base.options.autoPlay = 1500;
             }
             base.play();
 
