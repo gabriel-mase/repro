@@ -168,10 +168,7 @@
 
 	.fixed-button-llamanos-ahora {}
 
-	#btn-llamanos-ahora-fijo {
-		padding-left: 180px !important;
-
-	}
+	#btn-llamanos-ahora-fijo {}
 
 	#btn-llamanos-ahora-celular {
 
@@ -381,7 +378,7 @@
 		text-decoration: none;
 	}
 
-	.page_heading h2 {
+	.page_heading h1 {
 		margin: 0 33%;
 		padding: 1% 0;
 	}
@@ -496,10 +493,7 @@
 	/**llamanos area start **/
 	.button-llamanos-ahora-col {}
 
-	#btn-llamanos-ahora-fijo {
-		padding-left: 150px !important;
-
-	}
+	#btn-llamanos-ahora-fijo {}
 
 	#btn-llamanos-ahora-celular {
 		padding-left: 150px !important;
@@ -1065,9 +1059,7 @@
 	}
 
 
-	#btn-llamanos-ahora-fijo {
-		left: -63px !important;
-	}
+	#btn-llamanos-ahora-fijo {}
 
 	/** llamanos ahora end area **/
 
@@ -1095,7 +1087,7 @@
 		text-decoration: none;
 	}
 
-	.page_heading h2 {
+	.page_heading h1 {
 		margin: 0 33%;
 		padding: 1% 0;
 	}
@@ -1120,7 +1112,7 @@
 		width: 65px;
 	}
 
-	.page_heading h2 {
+	.page_heading h1 {
 		margin: 0 29%;
 		padding: 1% 0;
 	}
@@ -1139,7 +1131,7 @@
 		padding: 45px 0;
 	}
 
-	.page_heading h2 {
+	.page_heading h1 {
 		border-bottom: 1px solid #fff;
 		border-top: 1px solid #fff;
 		color: #fff;
@@ -2061,7 +2053,7 @@
 		width: 65px;
 	}
 
-	.page_heading h2 {
+	.page_heading h1 {
 		margin: 0 30%;
 		padding: 1% 0;
 	}
@@ -2249,10 +2241,7 @@
 		top: 30px;
 	}
 
-	#btn-llamanos-ahora-fijo {
-		left: -6px;
-
-	}
+	#btn-llamanos-ahora-fijo {}
 	.nav .open>a,
 	.nav .open>a:hover,
 	.nav .open>a:focus {
@@ -2331,7 +2320,7 @@
 		padding-top: 30%;
 	}
 
-	.page_heading h2 {
+	.page_heading h1 {
 		margin: 0 20%;
 		padding: 1% 0;
 	}
@@ -2383,9 +2372,7 @@
 		padding-left: 10px !important;
 	}
 
-	#btn-llamanos-ahora-fijo {
-		padding-left: 10px !important;
-	}
+	#btn-llamanos-ahora-fijo {}
 
 	/** llamanos ahora end area **/
 	.nav .open>a,
@@ -2572,7 +2559,7 @@
 		width: 65px;
 	}
 
-	.page_heading h2 {
+	.page_heading h1 {
 		margin: 0 25%;
 		padding: 1% 0;
 	}
@@ -2650,10 +2637,7 @@
 		left: -202px !important;
 	}
 
-	#btn-llamanos-ahora-fijo {
-		left: -75px !important;
-
-	}
+	#btn-llamanos-ahora-fijo {}
 
 	/** llamanos ahora end area **/
 
@@ -3025,7 +3009,7 @@
 		text-align: center;
 	}
 
-	.page_heading h2 {
+	.page_heading h1 {
 		border-bottom: 1px solid #fff;
 		border-top: 1px solid #fff;
 		color: #fff;
@@ -3452,9 +3436,7 @@
 		padding-left: 10px;
 	}
 
-	#btn-llamanos-ahora-fijo {
-		padding-left: 10px
-	}
+	#btn-llamanos-ahora-fijo {}
 	.nav .open>a,
 	.nav .open>a:hover,
 	.nav .open>a:focus {
